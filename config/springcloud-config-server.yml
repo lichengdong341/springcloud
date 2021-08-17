@@ -7,3 +7,7 @@ data:
 spring:
   profiles:
     active: dev
+app:
+  version: online-version
+  name: app-name
+  appId: onAppId
