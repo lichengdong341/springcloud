@@ -4,10 +4,7 @@ data:
     username: eureka-signle-client
     password: 12345678
 
-spring:
-  profiles:
-    active: dev
 app:
-  version: online-version
-  name: app-name
-  appId: onAppId
+  version: online-version2
+  name: app-name2
+  appId: onAppId2
