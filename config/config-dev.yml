@@ -5,6 +5,6 @@ data:
     password: 1234567999
 
 app:
-  version: online-version4
-  name: online-name4
-  appId: online-AppId4
+  version: online-version5
+  name: online-name5
+  appId: online-AppId5
