@@ -6,6 +6,6 @@ server:
   port: 8082
   
 app:
-  version: v2
-  name: config-bugs-v2
-  appId: id-002-v2
+  version: v3
+  name: config-bugs-v3
+  appId: id-003-v3
