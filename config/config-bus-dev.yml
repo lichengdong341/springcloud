@@ -1,0 +1,11 @@
+data:
+  env: config-single-client
+  user:
+    username: eureka-signle-client
+    password: 12345678
+
+spring:
+  profiles:
+    active: dev
+  application: 
+    name: config-bus
