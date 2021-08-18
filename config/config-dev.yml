@@ -2,9 +2,9 @@ data:
   env: config-single-client
   user:
     username: eureka-signle-client
-    password: 12345678
+    password: 1234567999
 
 app:
-  version: online-version3
-  name: online-name3
-  appId: online-AppId3
+  version: online-version4
+  name: online-name4
+  appId: online-AppId4
